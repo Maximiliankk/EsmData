@@ -1,0 +1,8 @@
+Tournament format name: Team Decathlon
+# players per team: 5
+allow teams of different sizes: no
+Rounds per match: 10
+Each round has a different game selected randomly from gameslist_teams.txt
+# players per round: 3-5 depending on the standard number for that game
+Bracket type: Single Elimination by default (can be changed)
+# of game bans per match: 0-1 per team
