@@ -1,8 +1,13 @@
-Tournament format name: 1v1 Games Team Battle
-# players per team: 1-10
-allow teams of different sizes: yes
-Rounds per match: bo3-bo10
+Tournament format name:
+1v1 Games Team Battle
+
+Tournament options:
+PPT (Players per team): 1-10 [2-5 recommended]
+DST (Different sized teams): yes/no [yes recommended]
+RPM (Rounds per match): 5-15 [7 recommended]
+GB (Game bans per match per team): 1-2 [1 recommended]
+BT (Bracket type): any [single elimination recommended]
+
+Tournament rules:
+Only 1 player from each team competes per round
 Each round has a different game selected randomly from gameslist_1v1.txt
-# players per round: 1
-Bracket type: Single Elimination by default (can be changed)
-# of game bans per match: 1-2 per team
