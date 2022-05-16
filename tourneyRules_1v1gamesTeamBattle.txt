@@ -11,3 +11,23 @@ BT (Bracket type): any [single elimination recommended]
 Tournament rules:
 Only 1 player from each team competes per round
 Each round has a different game selected randomly from gameslist_1v1.txt
+
+Rules for games not designed for 1v1:
+
+League of Legends and Dota 2:
+First kill or 100cs or tower destroyed wins.
+If the game goes longer than 10min it is a draw.
+If the judge says one player is not playing the 1v1 as intended they lose.
+
+PUBG:
+Do a custom game for the 1v1.
+Need 8 players to make it so have 6 people give up after dropping.
+Adjust circle speed so that the game lasts about 10 min.
+
+Apex Legends:
+Do a custom game for the 1v1.
+Adjust circle speed so that the game lasts about 10 min.
+
+Teamfight Tactics:
+Do a ranked game if possible.
+Higher place at end wins the 1v1.
